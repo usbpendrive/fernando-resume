@@ -5,6 +5,9 @@
   "repository": "https://github.com/usbpendrive/fernando-resume.git",
   "author": "Fernando <ferry.fernando@gmail.com> (https://github.com/usbpendrive)",
   "license": "MIT",
+  "scripts": {
+    "dev": "nuxt"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.4.2",
     "bootstrap": "^4.1.3",
